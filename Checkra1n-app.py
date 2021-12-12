@@ -4,7 +4,7 @@ from time import sleep
 from colorama import Fore, init
 import os , sys
 import subprocess
-import paramiko
+import paramikou
 
 def ketik(s):
 	for ASU in s + '\n':
